@@ -1,4 +1,4 @@
 # keterangan
 nyoba doang
-> coba lagi
-> coba lagi2
+> 1. c
+> 2. d
